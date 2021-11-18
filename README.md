@@ -33,7 +33,7 @@ this distro is made based on the tutorial provided by [linux from scratch](https
   - etc.
 # How to use?
 
-1. Download the latest version from release section or alternatively from [Gdrive](https://drive.google.com/drive/folders/1w7UkEwesqA_RNcZOSk3PAZ6C9UMm2fiy?usp=sharing).
+1. Download the latest version from [Gdrive](https://drive.google.com/drive/folders/1w7UkEwesqA_RNcZOSk3PAZ6C9UMm2fiy?usp=sharing).
 2. Extract it
 3. Create new virtual machine using virtual box
 5. Set `Type` to `Linux`
