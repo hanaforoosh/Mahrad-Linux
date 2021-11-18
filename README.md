@@ -1,5 +1,8 @@
+
+
 Mahrad Linux
 ===============================
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ![Screenshot](Mahrad_Linux_SS.jpg "Screenshot")
 
@@ -30,7 +33,7 @@ this distro is made based on the tutorial provided by [linux from scratch](https
   - etc.
 # How to use?
 
-1. Download the latest version
+1. Download the latest version from release section or alternatively from [Gdrive](https://drive.google.com/drive/folders/1w7UkEwesqA_RNcZOSk3PAZ6C9UMm2fiy?usp=sharing).
 2. Extract it
 3. Create new virtual machine using virtual box
 5. Set `Type` to `Linux`
@@ -41,6 +44,7 @@ this distro is made based on the tutorial provided by [linux from scratch](https
 10. Start the machine
 11. Username:`root` password:1234 (`cherry` username is available in brewed version and the password is the same)
 12. Have fun :)
+
 
 
 
