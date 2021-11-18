@@ -2,7 +2,7 @@
 
 Mahrad Linux
 ===============================
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://kernel.org)
 
 ![Screenshot](Mahrad_Linux_SS.jpg "Screenshot")
 
