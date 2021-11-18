@@ -1,0 +1,56 @@
+Mahrad Linux v3.0.0 (Cherry)
+===============================
+- fixing curl issue with certificates
+- root's pass is 1234.
+- sudo is now added. any user in sudo group can issue 'sudo'.
+
+ [not available in brewless version]
+- 'cherry' user is created and the pass set to 1234. 'cherry' is in sudo group.
+- brew package manager is available for 'cherry'.
+
+Mahrad Linux v2.2.0 (Blackberry)
+===============================
+Changelog:
+- added 4 GB swap partition
+- removed the old kernel completely (5.13.12).
+- added h,j,k,l for resizing panes.
+- pip is now a symlink to /usr/bin/pip3
+- replaced Links with Lynx.
+- certificate's issues resolved now :) no need to modify /etc/profile anymore.
+- added UnZip.
+- added Motd and enabled by default. you can enable it by 'motd-enable' and disable it by 'motd-disable'. thank to @paladini & @erickedji.
+
+Mahrad Linux v2.1.0 (Blueberry)
+===============================
+Changelog:
+- added latest stable kernel (5.14.16)
+- changed distro's logo in neofetch
+- reduces size to 10 GB
+
+Mahrad Linux v2.0.0 (Berry)
+=========================
+Features:
+- systemd
+- two kernels are include: 5.13.12 and 5.15.0
+
+Packages:
+- git
+- ssh
+- nano
+- curl
+- wget
+- tmux
+- tree
+- aria2
+- which
+- neofetch
+- links - web browser
+- dash (/bin/sh refers to dash now)
+
+Tweaks in /etc/profile:
+- colored ls
+- aria2c's certificate checking is disabled.
+- wget is's certificate checking is disabled and is forced to work with ipv4.
+
+other fixes:
+- no more unnecessary messages on screen
