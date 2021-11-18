@@ -2,9 +2,9 @@
 
 Mahrad Linux
 ===============================
-[![linux - 5.14.16 | 5.15](https://img.shields.io/badge/linux-5.14.16_|_5.15-FCC624?style=for-the-badge&logo=Linux&logoColor=white)](https://kernel.org)
-[![homebrew - 3.3.4](https://img.shields.io/badge/homebrew-3.3.4-2ea44f?style=for-the-badge&logo=homebrew&logoColor=white)](https://brew.sh)
-
+[![linux](https://img.shields.io/static/v1?label=&message=linux&color=%23FCC624&style=for-the-badge&logo=linux&logoColor=black)](https://kernel.org)
+[![GNU](https://img.shields.io/static/v1?label=&message=GNU&color=%23A42E2B&style=for-the-badge&logo=gnu&logoColor=white)](https://gnu.org)
+[![homebrew](https://img.shields.io/static/v1?label=&message=homebrew&color=%23FBB040&style=for-the-badge&logo=homebrew&logoColor=black)](https://brew.sh)
 ![Screenshot](Mahrad_Linux_SS.jpg "Screenshot")
 
 A simple linux distro for those who are eager to explore the linux's world.
