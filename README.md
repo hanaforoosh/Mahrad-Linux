@@ -2,7 +2,8 @@
 
 Mahrad Linux
 ===============================
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://kernel.org)
+[![linux - 5.14.16 | 5.15](https://img.shields.io/badge/linux-5.14.16_|_5.15-FCC624?style=for-the-badge&logo=Linux&logoColor=white)](https://kernel.org)
+[![homebrew - 3.3.4](https://img.shields.io/badge/homebrew-3.3.4-2ea44f?style=for-the-badge&logo=homebrew&logoColor=white)](https://brew.sh)
 
 ![Screenshot](Mahrad_Linux_SS.jpg "Screenshot")
 
@@ -14,7 +15,7 @@ this distro is made based on the tutorial provided by [linux from scratch](https
 - x86_64 architecture
 - Systemd init system.
 - 4GB swap
-- 2 kernels are included by default (5.14.16 and 5.15.0)
+- 2 kernels are included by default (5.14.16 and 5.15)
 - `motd`
 - Extra packages such as:
   - Lynx (cli web browser)
