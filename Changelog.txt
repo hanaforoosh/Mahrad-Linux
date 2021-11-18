@@ -1,10 +1,13 @@
 Mahrad Linux v3.0.0 (Cherry)
 ===============================
+initial release in github
 - fixing curl issue with certificates
 - root's pass is 1234.
 - sudo is now added. any user in sudo group can issue 'sudo'.
+- aria2 removed
+- nano coloring added
 
- [not available in brewless version]
+ brewed exclusive:
 - 'cherry' user is created and the pass set to 1234. 'cherry' is in sudo group.
 - brew package manager is available for 'cherry'.
 
