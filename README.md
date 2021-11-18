@@ -17,16 +17,16 @@ this distro is made based on the tutorial provided by [linux from scratch](https
   - Lynx (cli web browser)
   - Brew (userside package manager, available in brewed edition) 
   - UnZip
-  - git
-  - ssh
-  - nano
-  - curl
-  - wget
-  - tmux
-  - tree
-  - which
-  - neofetch
-  - dash
+  - Git
+  - Ssh
+  - Nano
+  - Curl
+  - Wget
+  - Tmux
+  - Tree
+  - Which
+  - Neofetch
+  - Dash
   - etc.
 # How to use?
 
