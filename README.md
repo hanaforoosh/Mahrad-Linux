@@ -3,6 +3,7 @@
 Mahrad Linux
 ===============================
 [![linux](https://img.shields.io/static/v1?label=&message=linux&color=%23FCC624&style=for-the-badge&logo=linux&logoColor=black)](https://kernel.org)
+[![[Ok] - systemd](https://img.shields.io/static/v1?label=&message=[Ok]%20systemd&color=%2334c76f&style=for-the-badge)](https://systemd.io)
 [![GNU](https://img.shields.io/static/v1?label=&message=GNU&color=%23A42E2B&style=for-the-badge&logo=gnu&logoColor=white)](https://gnu.org)
 [![homebrew](https://img.shields.io/static/v1?label=&message=homebrew&color=%23FBB040&style=for-the-badge&logo=homebrew&logoColor=black)](https://brew.sh)
 ![Screenshot](Mahrad_Linux_SS.jpg "Screenshot")
