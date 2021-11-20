@@ -2,7 +2,7 @@
 
 Mahrad Linux
 ===============================
-[![latest - Mahrad Linux v4.0.0 Dewberry](https://img.shields.io/static/v1?label=latest&message=Mahrad+Linux+v4.0.0+Dewberry&color=informational&style=for-the-badge)](https://drive.google.com/drive/folders/1w7UkEwesqA_RNcZOSk3PAZ6C9UMm2fiy?usp=sharing)
+[![latest - Mahrad Linux v4.0.0 Dewberry](https://img.shields.io/static/v1?label=latest&message=Mahrad+Linux+v4.0.0+Dewberry&color=informational&style=for-the-badge)](https://drive.google.com/drive/folders/1lQXfJXnIJ6fQ5OlNzwXTU5T5d04tW8pa)
 [![linux](https://img.shields.io/static/v1?label=&message=linux&color=%23FCC624&style=for-the-badge&logo=linux&logoColor=black)](https://kernel.org)
 [![[Ok] - systemd](https://img.shields.io/static/v1?label=&message=[Ok]%20systemd&color=%2334c76f&style=for-the-badge)](https://systemd.io)
 [![GNU](https://img.shields.io/static/v1?label=&message=GNU&color=%23A42E2B&style=for-the-badge&logo=gnu&logoColor=white)](https://gnu.org)
