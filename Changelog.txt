@@ -1,13 +1,55 @@
+Mahrad Linux v4.0.0 (Dewberry)
+===============================
+- remade from scratch
+
+- local time is fixed
+- lsb-release & os-release edited
+- ls auto color
+- bash prompt
+- clear after boot
+- suppressed kernel message
+- only these packages are added to basic lfs system to keep the system small and robust
+### Security
+- ssh
+- sudo
+- make-ca
+- p11-kit
+### Editors
+- nano
+### Shells
+- dash (/bin/sh -> /bin/dash)
+### System Utilities
+- which
+
+### Programming
+- git
+
+### Networking Programs
+- wget
+
+### Networking Utilities
+- traceroute
+
+### Networking Libraries
+- cURL
+- libevent
+
+### Text Web Browser
+- Lynx
+
+### Misc
+- Tmux
+
+
 Mahrad Linux v3.0.0 (Cherry)
 ===============================
-initial release in github
 - fixing curl issue with certificates
 - root's pass is 1234.
 - sudo is now added. any user in sudo group can issue 'sudo'.
 - aria2 removed
 - nano coloring added
 
- brewed exclusive:
+ [brewed version]
 - 'cherry' user is created and the pass set to 1234. 'cherry' is in sudo group.
 - brew package manager is available for 'cherry'.
 
