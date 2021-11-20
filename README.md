@@ -46,11 +46,11 @@ additional packages and libraries are:
 - cURL
 - libevent
 
-### Text Web Browser
-- Lynx
-
 ### Terminal Utilites
 - Tmux
+
+### Text Web Browser
+- Lynx
 
 # How to use?
 
