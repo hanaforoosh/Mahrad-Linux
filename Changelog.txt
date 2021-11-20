@@ -9,6 +9,8 @@ Mahrad Linux v4.0.0 (Dewberry)
 - clear after boot
 - suppressed kernel message
 - only these packages are added to basic lfs system to keep the system small and robust
+### Package manager
+- brew
 ### Security
 - ssh
 - sudo
@@ -37,7 +39,7 @@ Mahrad Linux v4.0.0 (Dewberry)
 ### Text Web Browser
 - Lynx
 
-### Misc
+### Terminal Utilities
 - Tmux
 
 
