@@ -19,6 +19,8 @@ this distro is made based on the tutorial provided by [linux from scratch](https
 - 4GB swap
 
 additional packages and libraries are:
+### Package manager
+- brew
 ### Security
 - ssh
 - sudo
@@ -47,7 +49,7 @@ additional packages and libraries are:
 ### Text Web Browser
 - Lynx
 
-### Misc
+### Terminal Utilites
 - Tmux
 
 # How to use?
