@@ -36,11 +36,11 @@ Mahrad Linux v4.0.0 (Dewberry)
 - cURL
 - libevent
 
-### Text Web Browser
-- Lynx
-
 ### Terminal Utilities
 - Tmux
+
+### Text Web Browser
+- Lynx
 
 
 Mahrad Linux v3.0.0 (Cherry)
