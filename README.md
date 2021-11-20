@@ -9,7 +9,7 @@ Mahrad Linux
 ![Screenshot](Mahrad_Linux_SS.jpg "Screenshot")
 
 A simple linux distro for those who are eager to explore the linux's world.
-this distro is made based on the tutorial provided by [linux from scratch](https://www.linuxfromscratch.org/lfs/view/systemd/) and aims to be easy to use. it also includes some essential packages from [beyond linux from scratch](https://www.linuxfromscratch.org/blfs/view/stable/) and minor tweaks.
+this distro is made based on the tutorial provided by [linux from scratch](https://www.linuxfromscratch.org/lfs/view/systemd/) and aims to be easy to use. it also includes some essential packages from [beyond linux from scratch](https://www.linuxfromscratch.org/blfs/view/systemd/) and minor tweaks.
 
 # Features 
 - The whole system is available as a single ready-to-attach `vdi` file.
