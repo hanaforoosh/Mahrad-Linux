@@ -2,6 +2,7 @@
 
 Mahrad Linux
 ===============================
+[![latest - Mahrad Linux v4.0.0 Dewberry](https://img.shields.io/static/v1?label=latest&message=Mahrad+Linux+v4.0.0+Dewberry&color=informational&style=for-the-badge)](https://drive.google.com/drive/folders/1w7UkEwesqA_RNcZOSk3PAZ6C9UMm2fiy?usp=sharing)
 [![linux](https://img.shields.io/static/v1?label=&message=linux&color=%23FCC624&style=for-the-badge&logo=linux&logoColor=black)](https://kernel.org)
 [![[Ok] - systemd](https://img.shields.io/static/v1?label=&message=[Ok]%20systemd&color=%2334c76f&style=for-the-badge)](https://systemd.io)
 [![GNU](https://img.shields.io/static/v1?label=&message=GNU&color=%23A42E2B&style=for-the-badge&logo=gnu&logoColor=white)](https://gnu.org)
@@ -9,30 +10,46 @@ Mahrad Linux
 ![Screenshot](Mahrad_Linux_SS.jpg "Screenshot")
 
 A simple linux distro for those who are eager to explore the linux's world.
-this distro is made based on the tutorial provided by [linux from scratch](https://www.linuxfromscratch.org/lfs/view/systemd/) and aims to be easy to use. it also includes some essential packages from [beyond linux from scratch](https://www.linuxfromscratch.org/blfs/view/systemd/) and minor tweaks.
+this distro is made based on the tutorial provided by [linux from scratch](https://www.linuxfromscratch.org/lfs/view/systemd/) and aims to be easy to use. it also includes some extra packages from [beyond linux from scratch](https://www.linuxfromscratch.org/blfs/view/systemd/) and minor tweaks.
 
 # Features 
 - The whole system is available as a single ready-to-attach `vdi` file.
 - x86_64 architecture
 - Systemd init system.
 - 4GB swap
-- 2 kernels are included by default (5.14.16 and 5.15)
-- `motd`
-- Extra packages such as:
-  - Lynx (cli web browser)
-  - Brew (userside package manager, available in brewed edition) 
-  - UnZip
-  - Git
-  - Ssh
-  - Nano
-  - Curl
-  - Wget
-  - Tmux
-  - Tree
-  - Which
-  - Neofetch
-  - Dash
-  - etc.
+
+additional packages and libraries are:
+### Security
+- ssh
+- sudo
+- make-ca
+- p11-kit
+### Editors
+- nano
+### Shells
+- dash ( /bin/sh -> /bin/dash )
+### System Utilities
+- which
+
+### Programming
+- git
+
+### Networking Programs
+- wget
+
+### Networking Utilities
+- traceroute
+
+### Networking Libraries
+- cURL
+- libevent
+
+### Text Web Browser
+- Lynx
+
+### Misc
+- Tmux
+
 # How to use?
 
 1. Download the latest version from [Gdrive](https://drive.google.com/drive/folders/1w7UkEwesqA_RNcZOSk3PAZ6C9UMm2fiy?usp=sharing).
@@ -44,7 +61,7 @@ this distro is made based on the tutorial provided by [linux from scratch](https
 8. Select `Mahrad Linux.vdi`
 9. Next..next...
 10. Start the machine
-11. Username:`root` password:1234 (`cherry` username is available in brewed version and the password is the same)
+11. Username:`root` password:`1234` (or username:`linuxbrew` and password:`1234`)
 12. Have fun :)
 
 
