@@ -2,15 +2,15 @@
 
 Mahrad Linux
 ===============================
+![Screenshot](Mahrad_Linux_SS.jpg "Screenshot")
 [![latest - Mahrad Linux v4.0.0 Dewberry](https://img.shields.io/static/v1?label=latest&message=Mahrad+Linux+v4.0.0+Dewberry&color=informational&style=for-the-badge)](https://github.com/hanaforoosh/Mahrad-Linux/releases)
 [![linux](https://img.shields.io/static/v1?label=&message=linux&color=%23FCC624&style=for-the-badge&logo=linux&logoColor=black)](https://kernel.org)
 [![[Ok] - systemd](https://img.shields.io/static/v1?label=&message=[Ok]%20systemd&color=%2334c76f&style=for-the-badge)](https://systemd.io)
 [![GNU](https://img.shields.io/static/v1?label=&message=GNU&color=%23A42E2B&style=for-the-badge&logo=gnu&logoColor=white)](https://gnu.org)
 [![homebrew](https://img.shields.io/static/v1?label=&message=homebrew&color=%23FBB040&style=for-the-badge&logo=homebrew&logoColor=black)](https://brew.sh)
-![Screenshot](Mahrad_Linux_SS.jpg "Screenshot")
 
 A simple linux distro for those who are eager to explore the linux's world.
-this distro is made based on the tutorial provided by [linux from scratch](https://www.linuxfromscratch.org/lfs/view/systemd/) and aims to be easy to use. it also includes some extra packages from [beyond linux from scratch](https://www.linuxfromscratch.org/blfs/view/systemd/) and minor tweaks.
+this distro is made based on the tutorial provided by [linux from scratch](https://www.linuxfromscratch.org/lfs/view/systemd/) and aims to be easy to use. it also includes some extra packages from [beyond linux from scratch](https://www.linuxfromscratch.org/blfs/view/systemd/) and minor tweaks
 
 # Features 
 - The whole system is available as a single ready-to-attach `vdi` file.
